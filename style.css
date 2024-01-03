@@ -23,7 +23,7 @@ html {
 }
 .main {
     height: 664px;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0.45) 60%, rgba(0, 0, 0, 0.8) 100%), url('/IMG/bg-image.jpg');
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0.45) 60%, rgba(0, 0, 0, 0.8) 100%), url('IMG/bg-image.jpg');
 }
 
 header {
